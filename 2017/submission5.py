@@ -9,7 +9,7 @@ import urllib.parse
 import os
 import subprocess
 
-assert sklearn.__version__ == '0.18.1', 'the results can differ a lot if another (e.g., 0.19.0) version is used'
+#assert sklearn.__version__ == '0.18.1', 'the results can differ a lot if another (e.g., 0.19.0) version is used'
 
 data_dir = os.path.dirname(os.path.realpath(__file__))
 
