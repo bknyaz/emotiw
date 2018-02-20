@@ -7,3 +7,8 @@ Requirements:
 
 Test environment:
 - Ubuntu 14.04 LTS
+
+Paper:
+[`Convolutional neural networks pretrained on large face recognition datasets for emotion classification from video`](https://arxiv.org/abs/1711.04598)
+
+[Challenge website](https://sites.google.com/site/emotiwchallenge/home)
