@@ -4,9 +4,9 @@
 
 Run the code as: ```python3 submission5.py```
 
-The code will download all necessary features precomputed using our models and predict emotions on the test set.
+The code will download all necessary features precomputed using our models, train emotion classification models and predict emotions on the test set.
 
-Test set accuracy is 60.03% (second place).
+Test accuracy is 60.03% (second place).
 
 ### Requirements
 - Python3 (necessary to load features saved in python3)
