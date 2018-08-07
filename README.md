@@ -29,11 +29,13 @@ Recognition	2018, Xi'an, China
 
 If you use our code or features in your work, please cite our paper as following:
 ```
-@article{knyazev2017convolutional,
-  title={Convolutional neural networks pretrained on large face recognition datasets for emotion classification from video},
+@inproceedings{knyazev2018leveraging,
+  title={Leveraging large face recognition data for emotion classification},
   author={Knyazev, Boris and Shvetsov, Roman and Efremova, Natalia and Kuharenko, Artem},
-  journal={arXiv preprint arXiv:1711.04598},
-  year={2017}
+  booktitle={Automatic Face \& Gesture Recognition (FG 2018), 2018 13th IEEE International Conference on},
+  pages={692--696},
+  year={2018},
+  organization={IEEE}
 }
 ```
 
