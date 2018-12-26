@@ -1,8 +1,13 @@
-# EmotiW
+# EmotiW - emotion recognition from video
 
-Code for Emotion Recognition in the Wild (EmotiW) challenge
+| | | | | | |
+| :-------------: |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| <figure> <img src="2017/examples/angry.png" height="128"><figcaption>Angry</figcaption></figure> | <figure> <img src="2017/examples/fear.png" height="128"><figcaption>Fear</figcaption></figure> | <figure> <img src="2017/examples/happy.png" height="128"><figcaption>Happy</figcaption></figure> | <figure> <img src="2017/examples/neutral.png" height="128"><figcaption>Neutral</figcaption></figure> | <figure> <img src="2017/examples/sad.png" height="128"><figcaption>Sad</figcaption></figure> | <figure> <img src="2017/examples/surprise.png" height="128"><figcaption>Surprise</figcaption></figure> |
 
-For EmotiW 2017 code please see folder [2017](https://github.com/bknyaz/emotiw/tree/master/2017)
+
+Code for Emotion Recognition in the Wild (EmotiW) challenge.
+
+For EmotiW 2017 code please see folder [2017](https://github.com/bknyaz/emotiw/tree/master/2017).
 
 ## Description
 
@@ -23,8 +28,8 @@ Test accuracy is 60.03% (second place).
 [Challenge website](https://sites.google.com/site/emotiwchallenge/home)
 
 Paper:
-[`Convolutional neural networks pretrained on large face recognition datasets for emotion classification from video`](https://arxiv.org/abs/1711.04598) accepted to the 1st	Workshop on Large-scale	Emotion	
-Recognition	and	Analysis. IEEE	International	Conference	on	Automatic	Face	and	Gesture	
+[`Convolutional neural networks pretrained on large face recognition datasets for emotion classification from video`](https://arxiv.org/abs/1711.04598) accepted to the 1st	Workshop on Large-scale	Emotion
+Recognition	and	Analysis. IEEE	International	Conference	on	Automatic	Face	and	Gesture
 Recognition	2018, Xi'an, China
 
 If you use our code or features in your work, please cite our paper as following:
@@ -38,4 +43,3 @@ If you use our code or features in your work, please cite our paper as following
   organization={IEEE}
 }
 ```
-
